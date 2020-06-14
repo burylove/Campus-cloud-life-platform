@@ -1,4 +1,4 @@
-# live_web
+# life_web
 
 ## Project setup
 ```
